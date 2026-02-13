@@ -121,7 +121,7 @@
         <mxCell id="YjRdyG5Bjm8h8jSz6cDM-46" value="DDS" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="652" y="80" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CViafYbVLYx_wTjbz_tU-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CViafYbVLYx_wTjbz_tU-1" value="接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
